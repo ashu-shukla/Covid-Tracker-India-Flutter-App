@@ -1,0 +1,5 @@
+XSym
+0089
+8f03b3856204898c8f56c1694412fc32
+../../../../.symlinks/plugins/shared_preferences/ios/Classes/FLTSharedPreferencesPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,31 @@
+{
+  "name": "connectivity_for_web",
+  "version": "0.1.0",
+  "summary": "No-op implementation of connectivity web plugin to avoid build issues on iOS",
+  "description": "temp fake connectivity_web plugin",
+  "homepage": "https://github.com/flutter/plugins/tree/master/packages/connectivity/connectivity_for_web",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Flutter Team": "flutter-dev@googlegroups.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "VALID_ARCHS[sdk=iphonesimulator*]": "x86_64"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

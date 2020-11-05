@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/81622830/android-path_provider_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/81622830/android-path_provider_linux.iml" group="android/path_provider_linux" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1967135853/android-shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-1967135853/android-shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/156016611/android-shared_preferences_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/156016611/android-shared_preferences_linux.iml" group="android/shared_preferences_linux" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1215112559/android-shared_preferences_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/1215112559/android-shared_preferences_macos.iml" group="android/shared_preferences_macos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1782838582/android-shared_preferences_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-1782838582/android-shared_preferences_web.iml" group="android/shared_preferences_web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1615065182/android-url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-1615065182/android-url_launcher.iml" group="android/url_launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2033402188/android-url_launcher_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/-2033402188/android-url_launcher_linux.iml" group="android/url_launcher_linux" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-891108039/android-url_launcher_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-891108039/android-url_launcher_macos.iml" group="android/url_launcher_macos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-934935696/android-url_launcher_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-934935696/android-url_launcher_web.iml" group="android/url_launcher_web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1331698796/connectivity.iml" filepath="$PROJECT_DIR$/.idea/modules/1331698796/connectivity.iml" group="android/connectivity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-376866558/connectivity_for_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-376866558/connectivity_for_web.iml" group="android/connectivity_for_web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/150298364/connectivity_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/150298364/connectivity_macos.iml" group="android/connectivity_macos" />
+    </modules>
+  </component>
+</project>

@@ -12,40 +12,40 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:9:5-66
-14-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:9:22-64
+14-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:9:5-66
+14-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:9:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->[:connectivity] C:\Users\Ashu\Desktop\COV\covid_tracker\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
-15-->[:connectivity] C:\Users\Ashu\Desktop\COV\covid_tracker\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
+15-->[:connectivity] C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+15-->[:connectivity] C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
 16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-16-->[:connectivity] C:\Users\Ashu\Desktop\COV\covid_tracker\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-76
-16-->[:connectivity] C:\Users\Ashu\Desktop\COV\covid_tracker\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-73
+16-->[:connectivity] C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-76
+16-->[:connectivity] C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-73
 17
 18    <application
-18-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:10:5-33:19
+18-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:10:5-33:19
 19        android:name="io.flutter.app.FlutterApplication"
-19-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:11:9-57
+19-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:11:9-57
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.1.0] C:\Users\Ashu\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
 22        android:icon="@mipmap/icon"
-22-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:13:9-36
+22-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:13:9-36
 23        android:label="Covid Tracker" >
-23-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:12:9-38
+23-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:12:9-38
 24        <activity
-24-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:14:9-32:20
+24-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:14:9-32:20
 25            android:name="com.narkha.covid_tracker.MainActivity"
-25-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:15:13-41
+25-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:15:13-41
 26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-26-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:18:13-144
+26-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:18:13-144
 27            android:hardwareAccelerated="true"
-27-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:19:13-47
+27-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:19:13-47
 28            android:launchMode="singleTop"
-28-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:16:13-43
+28-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:16:13-43
 29            android:theme="@style/LaunchTheme"
-29-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:17:13-47
+29-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:17:13-47
 30            android:windowSoftInputMode="adjustResize" >
-30-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:20:13-55
+30-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:20:13-55
 31
 32            <!--
 33                 This keeps the window background of the activity showing
@@ -54,31 +54,31 @@
 36                 defined in @style/LaunchTheme).
 37            -->
 38            <meta-data
-38-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:25:13-27:40
+38-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:25:13-27:40
 39                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
-39-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:26:17-82
+39-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:26:17-82
 40                android:value="true" />
-40-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:27:17-37
+40-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:27:17-37
 41
 42            <intent-filter>
-42-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:28:13-31:29
+42-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:28:13-31:29
 43                <action android:name="android.intent.action.MAIN" />
-43-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:29:17-68
-43-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:29:25-66
+43-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:29:17-68
+43-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:29:25-66
 44
 45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:30:17-76
-45-->C:\Users\Ashu\Desktop\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:30:27-74
+45-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:30:17-76
+45-->C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\android\app\src\main\AndroidManifest.xml:30:27-74
 46            </intent-filter>
 47        </activity>
 48        <activity
-48-->[:url_launcher] C:\Users\Ashu\Desktop\COV\covid_tracker\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+48-->[:url_launcher] C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
 49            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-49-->[:url_launcher] C:\Users\Ashu\Desktop\COV\covid_tracker\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+49-->[:url_launcher] C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
 50            android:exported="false"
-50-->[:url_launcher] C:\Users\Ashu\Desktop\COV\covid_tracker\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+50-->[:url_launcher] C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
 51            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-51-->[:url_launcher] C:\Users\Ashu\Desktop\COV\covid_tracker\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+51-->[:url_launcher] C:\Users\Ashu\Desktop\All folders\COV\covid_tracker\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
 52    </application>
 53
 54</manifest>

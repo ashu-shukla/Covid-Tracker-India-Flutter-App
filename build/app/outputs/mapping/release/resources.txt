@@ -1,4 +1,4 @@
-android.content.res.Resources#getIdentifier present: false
+android.content.res.Resources#getIdentifier present: true
 Web content present: true
 Referenced Strings:
   %d.%d.%d.%d
@@ -10,6 +10,7 @@ Referenced Strings:
   ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
   ACTION_ARGUMENT_SELECTION_END_INT
   ACTION_ARGUMENT_SELECTION_START_INT
+  ACTION_ARGUMENT_SET_TEXT_CHARSEQUENCE
   ALERT
   AccessibilityBridge
   AccessibilityChannel
@@ -81,15 +82,18 @@ Referenced Strings:
   IS_HIDDEN
   IS_IMAGE
   IS_IN_MUTUALLY_EXCLUSIVE_GROUP
+  IS_KEYBOARD_KEY
   IS_LINK
   IS_LIVE_REGION
   IS_OBSCURED
   IS_READ_ONLY
   IS_SELECTED
+  IS_SLIDER
   IS_TEXT_FIELD
   IS_TOGGLED
   IconCompat
   InlinedApi
+  InputConnectionAdaptor
   KeyEventChannel
   LANDSCAPE_LEFT
   LANDSCAPE_RIGHT
@@ -99,6 +103,8 @@ Referenced Strings:
   LONG_PRESS
   LTR
   LifecycleChannel
+  ListenableEditingState
+  Localization.getStringResource
   LocalizationChannel
   MEDIUM_IMPACT
   MOVE_CURSOR_BACKWARD_BY_CHARACTER
@@ -143,9 +149,9 @@ Referenced Strings:
   SELECTION_CLICK
   SENTENCES
   SET_SELECTION
+  SET_TEXT
   SHOW_ON_SCREEN
   STANDARD
-  Samsung
   SettingsChannel
   StorageError
   SystemChannel
@@ -193,6 +199,7 @@ Referenced Strings:
   TextInputClient.requestExistingInputS...
   TextInputClient.updateEditingState
   TextInputClient.updateEditingStateWit...
+  TextInputPlugin
   TextInputType.address
   TextInputType.datetime
   TextInputType.emailAddress
@@ -213,11 +220,11 @@ Referenced Strings:
   VGhpcyBpcyB0aGUgcHJlZml4IGZvciBhIGxpc3Qu
   VISIBLE_PASSWORD
   WORDS
-  _
   accessibility
   action
   actionLabel
   activateSystemCursor
+  activity
   addView
   addressCity
   addressCountry
@@ -287,7 +294,6 @@ Referenced Strings:
   dark
   data
   decimal
-  default_input_method
   deviceId
   direction
   display
@@ -346,6 +352,8 @@ Referenced Strings:
   inputType
   input_method
   io.flutter.app.android.SplashScreenUn...
+  io.flutter.embedding.android.EnableSk...
+  io.flutter.embedding.android.OldGenHe...
   io.flutter.plugins.connectivity.Conne...
   io.flutter.plugins.sharedpreferences....
   io.flutter.plugins.urllauncher.UrlLau...
@@ -362,6 +370,7 @@ Referenced Strings:
   libflutter.so
   light
   listen
+  locale
   longPress
   mChildNodeIds
   main
@@ -382,6 +391,8 @@ Referenced Strings:
   nodeId
   none
   obscureText
+  off
+  on
   oneTimeCode
   overlay
   params
@@ -431,7 +442,6 @@ Referenced Strings:
   resizeUpRight
   resizeUpRightDownLeft
   route
-  samsung
   scanCode
   selectionBase
   selectionExtent
@@ -449,6 +459,7 @@ Referenced Strings:
   statusBarColor
   statusBarIconBrightness
   streetAddress
+  string
   systemNavigationBarColor
   systemNavigationBarDividerColor
   systemNavigationBarIconBrightness

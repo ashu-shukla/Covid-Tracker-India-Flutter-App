@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ashu\\Desktop\\All folders\\COV\\covid_tracker\\build\\url_launcher\\intermediates\\res\\merged\\release\\values-am\\values-am.xml",
+            "outputFile": "C:\\Users\\Ashu\\Desktop\\Coding\\Flutter\\COV\\covid_tracker\\build\\url_launcher\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-am\\values-am.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ashu\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-am\\values-am.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Ashu\\Desktop\\All folders\\COV\\covid_tracker\\build\\url_launcher\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-am\\values-am.xml",
+            "outputFile": "C:\\Users\\Ashu\\Desktop\\Coding\\Flutter\\COV\\covid_tracker\\build\\url_launcher\\intermediates\\res\\merged\\release\\values-am\\values-am.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ashu\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-am\\values-am.xml",

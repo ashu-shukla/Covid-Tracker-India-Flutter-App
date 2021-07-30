@@ -1,4 +1,4 @@
-#Sat Feb 06 13:41:54 IST 2021
-base.0=C\:\\Users\\Ashu\\Desktop\\All folders\\COV\\covid_tracker\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
+#Fri Jul 30 23:39:00 IST 2021
+base.0=C\:\\Users\\Ashu\\Desktop\\Coding\\Flutter\\COV\\covid_tracker\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
+path.0=classes.dex

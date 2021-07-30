@@ -46,10 +46,10 @@ class _HomeNavState extends State<HomeNav> with SingleTickerProviderStateMixin {
     });
     var t = time.split('/');
     var tim = t[2].split(' ');
-    if(int.parse(t[1])>=1 && int.parse(t[1])<10){
-      t[1] = '0${t[1]}';
-    }
-    if(int.parse(t[0])>=1 && int.parse(t[0])<10){
+    // if(int.parse(t[1])>=1 && int.parse(t[1])<10){
+    //   t[1] = '0${t[1]}';
+    // }
+    if (int.parse(t[0]) >= 1 && int.parse(t[0]) < 10) {
       t[0] = '0${t[0]}';
     }
     String tip = '${tim[0]}-${t[1]}-${t[0]} ${tim[1]}';

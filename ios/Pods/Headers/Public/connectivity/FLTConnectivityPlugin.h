@@ -1,0 +1,5 @@
+XSym
+0078
+d66504b6a5f8b9919a352702835f8db8
+../../../../.symlinks/plugins/connectivity/ios/Classes/FLTConnectivityPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

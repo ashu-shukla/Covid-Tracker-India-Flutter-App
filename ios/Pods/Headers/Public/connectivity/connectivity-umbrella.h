@@ -1,5 +1,0 @@
-XSym
-0066
-9d56444a8565b55603e566edc63884d3
-../../../Target Support Files/connectivity/connectivity-umbrella.h
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
